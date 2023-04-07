@@ -1,9 +1,10 @@
 print(1+1);
 print(1-1);
 print(1*1);
-print(1/1);
-print(1//1);
-print(1%1);
+print(10**3) #Exponent
+print(1/1); #Floating point
+print(1//1); #Integer/Whole number
+print(1%1); #Modulus/remainder
 
 # Logical Operators 
 
@@ -13,6 +14,10 @@ print(1%1);
 # > Greater than 
 # >= Greater than or equal to 
 # <= Less than or equal to 
+
+# Not (inverse
+# And (Both statements have to be true)
+# Or (At least one statement is true)
 
 Bob_Age = 13
 Age_at_Kindergarten = 5
